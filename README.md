@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://harshcs2002.io)
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A CS student , very introvert person :)</h3>
+<h1 align="center">Hi, I'm Harsh</h1>
+<h3 align="center">Introvert Person</h3>
 <h3> Portfolio :- https://harshcs2002.github.io/portfolio.github.io/ </h3>
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left">
