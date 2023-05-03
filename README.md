@@ -17,4 +17,6 @@
 - Portfolio : https://harshcs2002.github.io/portfolio.github.io/
 - Email : harshcs4016@gmail.com
 
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshcs2002)](https://github.com/anuraghazra/github-readme-stats)
+
 
